@@ -17,7 +17,15 @@
 		F8B2299216213B75003A269E /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F8B2299116213B75003A269E /* Default@2x.png */; };
 		F8B2299416213B75003A269E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F8B2299316213B75003A269E /* Default-568h@2x.png */; };
 		F8B2299716213B75003A269E /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8B2299516213B75003A269E /* MainStoryboard.storyboard */; };
-		F8B2299A16213B75003A269E /* JDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B2299916213B75003A269E /* JDViewController.m */; };
+		F8B229A51621412C003A269E /* PintCollectionViewLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B229A31621412C003A269E /* PintCollectionViewLayout.m */; };
+		F8B229A816221CD0003A269E /* JDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B229A716221CD0003A269E /* JDViewController.m */; };
+		F8B229AB16222887003A269E /* PNCollectionCellBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B229AA16222887003A269E /* PNCollectionCellBackgroundView.m */; };
+		F8B229AD1622294C003A269E /* baby.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F8B229AC1622294C003A269E /* baby.jpg */; };
+		F8B229B1162230C2003A269E /* bodegahead.png in Resources */ = {isa = PBXBuildFile; fileRef = F8B229AE162230C2003A269E /* bodegahead.png */; };
+		F8B229B2162230C2003A269E /* egret.png in Resources */ = {isa = PBXBuildFile; fileRef = F8B229AF162230C2003A269E /* egret.png */; };
+		F8B229B3162230C2003A269E /* pinkprius.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F8B229B0162230C2003A269E /* pinkprius.jpg */; };
+		F8B229B516223117003A269E /* danielle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F8B229B416223117003A269E /* danielle.jpg */; };
+		F8B229B716223161003A269E /* betceemay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F8B229B616223161003A269E /* betceemay.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,8 +43,18 @@
 		F8B2299116213B75003A269E /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		F8B2299316213B75003A269E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		F8B2299616213B75003A269E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		F8B2299816213B75003A269E /* JDViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDViewController.h; sourceTree = "<group>"; };
-		F8B2299916213B75003A269E /* JDViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDViewController.m; sourceTree = "<group>"; };
+		F8B229A31621412C003A269E /* PintCollectionViewLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PintCollectionViewLayout.m; sourceTree = "<group>"; };
+		F8B229A41621412C003A269E /* PintCollectionViewLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PintCollectionViewLayout.h; sourceTree = "<group>"; };
+		F8B229A616221CD0003A269E /* JDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JDViewController.h; sourceTree = "<group>"; };
+		F8B229A716221CD0003A269E /* JDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JDViewController.m; sourceTree = "<group>"; };
+		F8B229A916222887003A269E /* PNCollectionCellBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PNCollectionCellBackgroundView.h; sourceTree = "<group>"; };
+		F8B229AA16222887003A269E /* PNCollectionCellBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PNCollectionCellBackgroundView.m; sourceTree = "<group>"; };
+		F8B229AC1622294C003A269E /* baby.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = baby.jpg; sourceTree = "<group>"; };
+		F8B229AE162230C2003A269E /* bodegahead.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bodegahead.png; sourceTree = "<group>"; };
+		F8B229AF162230C2003A269E /* egret.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = egret.png; sourceTree = "<group>"; };
+		F8B229B0162230C2003A269E /* pinkprius.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pinkprius.jpg; sourceTree = "<group>"; };
+		F8B229B416223117003A269E /* danielle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = danielle.jpg; sourceTree = "<group>"; };
+		F8B229B616223161003A269E /* betceemay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = betceemay.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,11 +101,21 @@
 		F8B2298316213B75003A269E /* JSPintDemo */ = {
 			isa = PBXGroup;
 			children = (
+				F8B229B416223117003A269E /* danielle.jpg */,
+				F8B229AE162230C2003A269E /* bodegahead.png */,
+				F8B229AF162230C2003A269E /* egret.png */,
+				F8B229B0162230C2003A269E /* pinkprius.jpg */,
+				F8B229B616223161003A269E /* betceemay.jpg */,
+				F8B229AC1622294C003A269E /* baby.jpg */,
+				F8B229A916222887003A269E /* PNCollectionCellBackgroundView.h */,
+				F8B229AA16222887003A269E /* PNCollectionCellBackgroundView.m */,
+				F8B2299516213B75003A269E /* MainStoryboard.storyboard */,
 				F8B2298C16213B75003A269E /* JDAppDelegate.h */,
 				F8B2298D16213B75003A269E /* JDAppDelegate.m */,
-				F8B2299516213B75003A269E /* MainStoryboard.storyboard */,
-				F8B2299816213B75003A269E /* JDViewController.h */,
-				F8B2299916213B75003A269E /* JDViewController.m */,
+				F8B229A616221CD0003A269E /* JDViewController.h */,
+				F8B229A716221CD0003A269E /* JDViewController.m */,
+				F8B229A31621412C003A269E /* PintCollectionViewLayout.m */,
+				F8B229A41621412C003A269E /* PintCollectionViewLayout.h */,
 				F8B2298416213B75003A269E /* Supporting Files */,
 			);
 			path = JSPintDemo;
@@ -164,6 +192,12 @@
 				F8B2299216213B75003A269E /* Default@2x.png in Resources */,
 				F8B2299416213B75003A269E /* Default-568h@2x.png in Resources */,
 				F8B2299716213B75003A269E /* MainStoryboard.storyboard in Resources */,
+				F8B229AD1622294C003A269E /* baby.jpg in Resources */,
+				F8B229B1162230C2003A269E /* bodegahead.png in Resources */,
+				F8B229B2162230C2003A269E /* egret.png in Resources */,
+				F8B229B3162230C2003A269E /* pinkprius.jpg in Resources */,
+				F8B229B516223117003A269E /* danielle.jpg in Resources */,
+				F8B229B716223161003A269E /* betceemay.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,7 +210,9 @@
 			files = (
 				F8B2298A16213B75003A269E /* main.m in Sources */,
 				F8B2298E16213B75003A269E /* JDAppDelegate.m in Sources */,
-				F8B2299A16213B75003A269E /* JDViewController.m in Sources */,
+				F8B229A51621412C003A269E /* PintCollectionViewLayout.m in Sources */,
+				F8B229A816221CD0003A269E /* JDViewController.m in Sources */,
+				F8B229AB16222887003A269E /* PNCollectionCellBackgroundView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
