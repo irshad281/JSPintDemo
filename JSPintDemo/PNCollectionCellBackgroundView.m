@@ -2,7 +2,6 @@
 //  PNCollectionCellBackgroundView.m
 //
 //  Created by Jay Slupesky on 10/3/12.
-//  Copyright (c) 2012 Fall Creek Software. All rights reserved.
 //
 
 #import "PNCollectionCellBackgroundView.h"
