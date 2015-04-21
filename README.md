@@ -10,7 +10,6 @@ Inserts and deletes are animated.
 
 Feel free to contact me at jay@fallcreek.com with any questions.  Or if you are using my code, tell me a little about your project. 
 
-<img src="http://fallcreek.com/PintLayout.png"/>
 
 
 
